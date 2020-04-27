@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-03-25T00:00:00+01:00</updated><entry><title>Pelican on GitLab Pages!</title><link href="/pelican-on-gitlab-pages.html" rel="alternate"></link><published>2016-03-25T00:00:00+01:00</published><updated>2016-03-25T00:00:00+01:00</updated><author><name>Franz Alliod</name></author><id>tag:None,2016-03-25:/pelican-on-gitlab-pages.html</id><content type="html">&lt;p&gt;This site is hosted on GitLab Pages! The source code of this site is at 
+https://gitlab.com/pages/pelican.
+Learn about GitLab Pages at https://pages.gitlab.io.&lt;/p&gt;</content><category term="GitLab"></category><category term="pelican"></category><category term="gitlab"></category></entry></feed>
