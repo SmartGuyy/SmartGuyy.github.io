@@ -1,1 +1,0 @@
-# SmartGuyy.github.io
